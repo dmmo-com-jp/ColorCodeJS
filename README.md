@@ -3,7 +3,7 @@ Ensure easy manipulation of ColorCode
 ver:0.0.1
 colorコードの類似性とか調べられるやつです。
 
-#機能一覧
+# 機能一覧
 ## ColorCodeクラス
 ColorCode.Rawcolor 処理用のやつ
 ### RGB
